@@ -23,13 +23,13 @@ Estrutura do Banco de Dados
 <p> O banco de dados é composto por várias tabelas para armazenar informações sobre montadoras, cores, categorias de veículos, carros, clientes, locações e histórico de locações.</p>
 </div>
 
-<div align="left">
+<div align="center">
   <h3>
     Tabelas
   </h3>
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <p>Entidades</p>
@@ -51,6 +51,7 @@ Estrutura do Banco de Dados
       </p>
     </td>
   </tr>
+    
   <tr>
     <td align="center">
       <p>Cores</p>
