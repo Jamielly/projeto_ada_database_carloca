@@ -10,7 +10,7 @@ Visão Geral
 
 <div align="center"> 
 <h2>
-Diagrama de Caso de Uso
+Diagrama de Entidade Relacionamento
 </h2>
     
 
