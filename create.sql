@@ -24,6 +24,9 @@ CREATE TABLE Carros (
     CategoriaID INT,
     Modelo VARCHAR(255) NOT NULL,
     Versao VARCHAR(100),
+    QuilometragemAtual INT,
+    UnidadeAtual VARCHAR(255) NOT NULL,
+    Disponivel BOOLEAN NOT NULL,
     FOREIGN KEY (MontadoraID) REFERENCES Montadoras(MontadoraID),
     FOREIGN KEY (CorID) REFERENCES Cores(CorID),
     FOREIGN KEY (CategoriaID) REFERENCES Categorias(CategoriaID)
