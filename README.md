@@ -170,3 +170,52 @@ Estrutura do Banco de Dados
         (Chaves Estrangeiras para Carros e Clientes)
       </p>
 </table>
+
+<h2>Exemplos de Uso 🔻</h2>
+<p>A seguir, são apresentados alguns exemplos de inserts, selects e create table para validar os requisitos do sistema, para que você possa criar o seu BD também:</p>
+<h4>Exemplo de INSERTS:</h4>
+<div align="left">
+<p>
+
+    -- Insert para Montadoras
+    INSERT INTO Montadoras (MontadoraID, NomeMontadora) VALUES
+    (1, 'Toyota'),
+    (2, 'Ford'),
+    (3, 'Honda'); 
+
+</p>
+</div>
+
+<h4>Exemplo de SELECTS:</h4>
+<div align="left">
+<p>
+    
+    -- Exemplo de Select para Montadoras 
+    SELECT * FROM Montadoras; 
+    
+</p>
+</div>
+
+<h4>Exemplo de CREATE TABLE:</h4>
+<div align="left">
+<p>
+    
+    CREATE TABLE Montadoras (
+    MontadoraID INT PRIMARY KEY,
+    NomeMontadora VARCHAR(255) NOT NULL
+    );
+    
+</p>
+</div>
+
+
+##
+
+<footer>
+    <p>
+        <a href="https://github.com/Jamielly">
+            <span style="font-weight: bold;">Feito por:</span><br/>
+           👾 Jamielly Reis 👾
+        </a>
+    </p>
+</footer>
