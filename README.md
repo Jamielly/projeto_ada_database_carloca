@@ -7,11 +7,25 @@ Visão Geral
 </div>
 <div align="justify">
 <p> Este repositório contém um script SQL que cria um banco de dados para atender aos requisitos funcionais de uma locadora de carros chamada "CARLOCA". O script segue os princípios de normalização para garantir a integridade e eficiência do banco de dados. </p>
+    
+<div align="center"> 
+<h2>
+Relacionamento entre Tabelas:
+</h2> 
+    
+![image](https://github.com/Jamielly/projeto_ada_database_carloca/assets/100716307/1662e8c5-2ff9-41da-8abd-2b9795432e99)
+    
+</div>
+
 
 <div align="center"> 
 <h2>
-Diagrama de Entidade Relacionamento
+Diagrama de Entidade Relacionamento (DER):
 </h2>
+    
+![image](https://github.com/Jamielly/projeto_ada_database_carloca/assets/100716307/9726bb6c-d946-48c3-b403-c07acda950a3)
+
+</div>
     
 
 <div align="center"> 
